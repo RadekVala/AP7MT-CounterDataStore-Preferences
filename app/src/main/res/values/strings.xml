@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewBindingDemo1</string>
+    <string name="your_email">Email</string>
+    <string name="your_name">Name</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_increment">Increment</string>
+</resources>
